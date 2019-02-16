@@ -20,6 +20,7 @@
 + Install the required modules []
    + Path
    + Express
+   + Express-layout
    + Mysql
    + Router
    + Body-parser
