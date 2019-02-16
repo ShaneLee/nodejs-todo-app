@@ -2,12 +2,14 @@ const express = require('express')
 const mysql = require('mysql')
 const router = express.Router()
 
+const pass = "your_password_here"
+
 function getConnection() {
   return mysql.createConnection({
       host: "localhost",
       port: "3306",
       user: "root",
-      password: "dennis",
+      password: pass,
       database: "todo"
   })
 }
