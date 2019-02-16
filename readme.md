@@ -2,9 +2,9 @@
 
 <img src="/Thumbnail_nodetodo.jpg"
      alt="Click to go to the video"
-     href="https://youtu.be/vyGDsV7i74o" />
+     href="https://youtu.be/meJf53tvsWw" />
 
-[Youtube video associated with this repository](https://youtu.be/vyGDsV7i74o)
+[Youtube video associated with this repository](https://youtu.be/meJf53tvsWw)
 
 ## Core concepts
 
