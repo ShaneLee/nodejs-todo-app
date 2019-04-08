@@ -1,11 +1,5 @@
 # Node JS Todo Application
 
-<img src="/Thumbnail_nodetodo.jpg"
-     alt="Click to go to the video"
-     href="https://youtu.be/meJf53tvsWw" />
-
-[Youtube video associated with this repository](https://youtu.be/meJf53tvsWw)
-
 ## Core concepts
 
 + MySql - absolute basics. Single table database.
